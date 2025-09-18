@@ -50,3 +50,30 @@ Le code en lui-même ne posait pas de problème majeur.
 -  Ajout d’un fichier **sitemap.xml** décrivant les pages et images.
 
 ---
+
+## Description du fichier HTML
+
+-  Les polices étaient enregistrées en local pour accélérer l’affichage et éviter la dépendance à un service tiers.
+-  Le grand logo affiché sur la photo servait de lien vers la page parent.
+-  Les parenthèses placées en bas de chaque section permettaient de revenir rapidement en haut de la page.
+-  Les photos de la galerie redirigeaient vers la page de la chambre correspondante.
+
+Une version test du site intégrait également une vidéo hébergée en local.  Cela impliquait beaucoup de contraintes : gestion de plusieurs formats, création manuelle de sous-titres avec timecodes… Finalement, l’option YouTube s’est révélée moins chronophage et plus pratique.
+
+Une autre section affichait les avis clients Google My Business, et la partie Contact incluait une carte interactive basée sur l’API Google Maps, avec possibilité de zoom/dézoom et personnalisation du marqueur.
+
+Une large portion du code était dédiée à la gestion responsive : tailles d’écran, orientations portrait/paysage, etc.
+
+Ce n’est pas la dernière version de la page : par la suite, j’ai ajouté des QR codes permettant aux clients d’ouvrir directement la fiche Google Maps ou Apple Plans de l’établissement pour calculer leur itinéraire sans taper l’adresse.
+
+La page n’est aujourd’hui plus en ligne, la boutique ayant fermé.
+
+---
+
+## Description du PDF "Keyword"
+
+Exemple d’optimisation des mots-clés et de leur redondance dans le texte de la page, afin d’améliorer le SEO.
+ À l’époque, cela avait un réel impact sur le référencement. Aujourd’hui, les moteurs de recherche comprennent beaucoup mieux le contenu sans nécessiter ce type d’optimisation manuelle.
+
+---
+
